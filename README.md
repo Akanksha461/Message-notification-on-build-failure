@@ -1,6 +1,6 @@
 # Message notification on serevr issue
 
- Here i have written python script using request library we are able to know the status of api . The main perspective of this script is that incase  of any technical issue or server related issue developers should be informed immediately via Email and text message. Here is the [link](https://github.com/Akanksha461/Totojitu/blob/master/status_code.py) of whole code. For continuous integration i have used jenkins so that our script run after each time spam.Below is the step wise process for the same.
+ Here i have written python script using request library we are able to know the status of api . The main perspective of this script is that incase  of any technical issue or server related issue developers should be informed immediately via Email and text message. Here is the [link](https://github.com/Akanksha461/Message-notification-on-server-issue/blob/master/status_code.py) of whole code. For continuous integration i have used jenkins so that our script run after each time spam.Below is the step wise process for the same.
 
  ## Api status code
    For the server related issue we can also check the status of api. While using python we can use request library to check the status of an api.Requests will allow us to send HTTP/HTTPS requests using Python. With it, we can add content like headers, form data, multipart files, and parameters via simple Python libraries. It also allows you to access the response data of Python in the same way.
