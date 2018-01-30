@@ -4,7 +4,7 @@ import json
 # Check status code for destimoney admin.
 response = requests.get("https://api.dealmoney.net/")
 print(response.status_code)
-if response.status_code ==100:
+if response.status_code ==200:
       print("server is working fine")
   
 else:
